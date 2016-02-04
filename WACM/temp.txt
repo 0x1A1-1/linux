@@ -1,0 +1,25 @@
+total 75
+-rw-rw-r-- 1 xiaojun xiaojun    64 Feb  3 15:17 awk_example.txt
+-rw-rw-r-- 1 xiaojun xiaojun 41665 Feb  3 15:17 cs_web.html
+drwxrwxr-x 2 xiaojun xiaojun  2048 Feb  3 15:17 [0m[01;34mdir_new[0m/
+-rw-rw-r-- 1 xiaojun xiaojun     0 Feb  3 15:17 down_split
+drwxrwxr-x 2 xiaojun xiaojun  2048 Feb  3 15:17 [01;34mgit[0m/
+-rw-rw-r-- 1 xiaojun xiaojun    67 Feb  3 15:17 good_users.txt
+-rw-rw-r-- 1 xiaojun xiaojun   280 Feb  3 15:17 johns.txt
+-rw-rw-r-- 1 xiaojun xiaojun  1798 Feb  3 15:17 ls-l.txt
+-rw-rw-r-- 1 xiaojun xiaojun   145 Feb  3 15:17 marks.txt
+-rw-rw-r-- 1 xiaojun xiaojun     0 Feb  3 15:17 new_file
+-rw-rw-r-- 1 xiaojun xiaojun    47 Feb  3 17:55 non_indented.c
+-rw-rw-r-- 1 xiaojun xiaojun 14832 Feb  3 15:17 program.c.1
+drwxrwxr-x 2 xiaojun xiaojun  2048 Feb  3 15:17 [01;34mQuickySort[0m/
+-rw-rw-r-- 1 xiaojun xiaojun    51 Feb  3 15:17 README.md
+-rw-rw-r-- 1 xiaojun xiaojun     0 Feb  3 15:17 right_split
+-rw-rw-r-- 1 xiaojun xiaojun   397 Feb  3 15:17 sed_example.txt
+-rwxr-xr-x 1 xiaojun xiaojun   137 Feb  3 15:17 [01;32msimple_bash.sh[0m*
+drwxrwxr-x 2 xiaojun xiaojun  2048 Feb  3 15:17 [01;34msoftlink[0m/
+-rw-rw-r-- 1 xiaojun xiaojun     0 Feb  3 15:17 split.txt
+-rw-rw-r-- 1 xiaojun xiaojun     0 Feb  3 15:17 temp
+-rw-rw-r-- 1 xiaojun xiaojun     0 Feb  3 17:57 temp.txt
+-rw-rw-r-- 1 xiaojun xiaojun     0 Feb  3 15:17 test
+-rwxr-xr-x 1 xiaojun xiaojun   234 Feb  3 15:17 [01;32musers.txt[0m*
+[m
